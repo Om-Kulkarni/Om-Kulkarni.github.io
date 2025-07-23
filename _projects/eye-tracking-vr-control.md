@@ -8,6 +8,9 @@ project_type: "Master's Dissertation"
 date: 2025-07-01
 ---
 
+### Project Resources
+* **GitHub Repository**: [Pick and Place Eye Tracking VR](https://github.com/Om-Kulkarni/Pick_And_Place_Eye_Tracking_VR)
+
 ## Project Overview
 This project implements an innovative eye tracking-based control system for robotic pick-and-place operations, integrating the Franka Emika Panda robot with Unity VR. The system enables users to intuitively select targets for robot manipulation using eye tracking technology in an immersive virtual environment.
 
@@ -93,6 +96,3 @@ This project implements an innovative eye tracking-based control system for robo
 * Advanced gesture recognition
 * Expanded task automation
 * Improved human-robot interaction
-
-## Project Resources
-* **GitHub Repository**: [Pick and Place Eye Tracking VR](https://github.com/Om-Kulkarni/Pick_And_Place_Eye_Tracking_VR)

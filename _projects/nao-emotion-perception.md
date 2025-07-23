@@ -5,6 +5,9 @@ collection: projects
 date: 2025-07-03
 ---
 
+### Project Resources
+* **Technical Report**: [Human-Robot Emotional Interaction Study Report [PDF]](/files/nao_emotion_perception_report.pdf)
+
 ## Project Overview
 This research project investigated the relationship between participants' internal emotional states and their perception of emotional expressions displayed by the NAO humanoid robot. The study aimed to understand how human emotional states influence the interpretation of robotic emotional expressions, contributing to the field of affective human-robot interaction.
 
@@ -71,8 +74,5 @@ This research project investigated the relationship between participants' intern
 * Choregraphe Suite
 * Python Programming
 * Statistical Analysis Tools
-
-### Project Resources
-* **Technical Report**: [Human-Robot Emotional Interaction Study Report [PDF]](/files/nao_emotion_perception_report.pdf)
 
 

@@ -5,6 +5,10 @@ collection: projects
 date: 2025-06-15
 ---
 
+### Project Resources
+* **Code Repository**: [LeRobot Implementation](https://github.com/snknitheesh/lerobot)
+* **Dataset**: [Sort Boxes Conveyor Dataset v1](https://huggingface.co/datasets/OmKulkarni/sort_boxes_conveyor_v1)
+
 This project, developed during the Hugging Face LeRobot Global Hackathon 2025 in London, secured the Technical Experts Award and 2nd place overall. As Team Episode-124 (named after our 124 collected data episodes), we tackled the critical challenge of automated waste segregation, specifically focusing on separating paper from mixed plastic-paper waste on a moving conveyor belt.
 
 ### Key Achievements
@@ -38,10 +42,6 @@ This project, developed during the Hugging Face LeRobot Global Hackathon 2025 in
 * Leader-Follower Training Setup
 * Advanced Motion Prediction Algorithms
 * Real-time Control Systems
-
-### Project Resources
-* **Code Repository**: [LeRobot Implementation](https://github.com/snknitheesh/lerobot)
-* **Dataset**: [Sort Boxes Conveyor Dataset v1](https://huggingface.co/datasets/OmKulkarni/sort_boxes_conveyor_v1)
 
 ### Team Members
 * Om Kulkarni

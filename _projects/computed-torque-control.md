@@ -5,6 +5,9 @@ collection: projects
 date: 2025-07-02
 ---
 
+### Project Resources
+* **Technical Report**: [Computed Torque Control Implementation Report [PDF]](/files/computed_torque_control_report.pdf)
+
 ## Project Overview
 This project focuses on the design and implementation of a Computed Torque Control (CTC) system for robotic manipulator arms. The work demonstrates advanced control techniques for achieving precise trajectory tracking and disturbance rejection in robotic systems.
 
@@ -66,7 +69,4 @@ This project focuses on the design and implementation of a Computed Torque Contr
   - Multiple trajectory scenarios
   - Disturbance response analysis
   - Parameter sensitivity studies
-
-### Project Resources
-* **Technical Report**: [Computed Torque Control Implementation Report [PDF]](/files/computed_torque_control_report.pdf)
 
